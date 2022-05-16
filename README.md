@@ -24,5 +24,5 @@ To use Bootstrap on your own web site:
 - md (for small laptops - screens equal to or greater than 992px wide)
 - lg (for laptops and desktops - screens equal to or greater than 1200px wide)
 
-![structure des 12 colonnes]](img1.png)
+![structure des 12 colonnes](img1.png)
 
