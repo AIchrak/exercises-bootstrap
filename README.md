@@ -18,4 +18,11 @@ To use Bootstrap on your own web site:
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 ```
+#Grid classes:
+- xs (for phones - screens less than 768px wide)
+- sm (for tablets - screens equal to or greater than 768px wide)
+- md (for small laptops - screens equal to or greater than 992px wide)
+- lg (for laptops and desktops - screens equal to or greater than 1200px wide)
+
+![structure des 12 colonnes]](img1.png)
 
